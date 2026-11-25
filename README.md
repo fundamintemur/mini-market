@@ -24,7 +24,7 @@ Next.js ile geliştirilmiş küçük bir e-ticaret (mini market) sitesi. Ödeme 
 1. Repoyu klonla:
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/mini-market.git
+git clone https://github.com/fundamintemur/mini-market.git
 cd mini-market
 ```
 
